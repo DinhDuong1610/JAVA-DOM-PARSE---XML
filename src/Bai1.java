@@ -6,8 +6,7 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
-import java.io.File;
-import java.io.file;
+import java.io.*;
 import java.util.Scanner;
 
 import org.w3c.dom.*;
